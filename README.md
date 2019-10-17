@@ -6,6 +6,7 @@
 - 新規登録、ログイン、SNS認証
 - 商品投稿
 - 商品編集・削除・購入（クレジット決済）
+- 商品検索
 
 ### 開発環境・体制
 - ruby/Ruby on Rails/MySQL/Github/AWS/Visual Studio Code
@@ -20,14 +21,16 @@
 
 # サンプル画像
 トップページ
-
+[![Image from Gyazo](https://i.gyazo.com/e30a9175f0a8d002d034c65213e4c4e5.gif)](https://gyazo.com/e30a9175f0a8d002d034c65213e4c4e5)
 クレジット登録
-
+[![Image from Gyazo](https://i.gyazo.com/35f44dfd472724138ac75b4db17e8bc2.gif)](https://gyazo.com/35f44dfd472724138ac75b4db17e8bc2)
 商品購入
-
+[![Image from Gyazo](https://i.gyazo.com/10b396eaaddf19569eca404528b81d20.gif)](https://gyazo.com/10b396eaaddf19569eca404528b81d20)
 商品投稿
-
-商品詳細
+[![Image from Gyazo](https://i.gyazo.com/db7228539f3855f4e05fdd1c846e03ba.gif)](https://gyazo.com/db7228539f3855f4e05fdd1c846e03ba)
+[![Image from Gyazo](https://i.gyazo.com/5d4d28ac72907f7356a79badeea3ecc8.gif)](https://gyazo.com/5d4d28ac72907f7356a79badeea3ecc8)
+商品検索
+[![Image from Gyazo](https://i.gyazo.com/be67d69de461b4ed0dc47c725ecb81fd.gif)](https://gyazo.com/be67d69de461b4ed0dc47c725ecb81fd)
 
 # DB設計
 ## usersテーブル
