@@ -20,9 +20,9 @@
 - サーバエンド：商品購入機能
 
 # サンプル画像
-
 トップページ
 [![Image from Gyazo](https://i.gyazo.com/e30a9175f0a8d002d034c65213e4c4e5.gif)](https://gyazo.com/e30a9175f0a8d002d034c65213e4c4e5)
+
 クレジット登録
 [![Image from Gyazo](https://i.gyazo.com/35f44dfd472724138ac75b4db17e8bc2.gif)](https://gyazo.com/35f44dfd472724138ac75b4db17e8bc2)
 商品購入
